@@ -1,2 +1,0 @@
-# reactclass
-react-exercises
